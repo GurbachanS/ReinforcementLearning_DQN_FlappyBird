@@ -148,4 +148,4 @@ python main.py flappybirdv0
 ## 👤 Author
 
 **Gurbachan Singh**
-B.E. CSE | Chandigarh University
+B.E. CSE 
